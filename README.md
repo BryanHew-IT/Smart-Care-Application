@@ -11,3 +11,4 @@ I worked on this project for about a year alongside my studies before we lost su
 Trello Board - Project planning and Tasks
 https://trello.com/b/ercWl2Vf/mind-lab-trello-sunsetted
 
+So unfortunately i cannot create another repository and display all files here as its currently linked to BitBucket however will be adding in photos and stuff to show what it looked like
